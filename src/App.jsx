@@ -1,6 +1,6 @@
 import Home from "./pages/home/Home.jsx";
 import About from "./pages/about/About";
-import Portfolio from "./pages/portfolio/portfolio";
+import Portfolio from "./pages/portfolio/Portfolio.jsx";
 import Contact from "./pages/contact/contact";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import AppLayout from "./components/AppLayout";
